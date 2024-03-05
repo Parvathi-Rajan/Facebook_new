@@ -1,0 +1,22 @@
+.main-body{
+    background: #fff;
+    width: 100%;
+    height: 500px;
+}
+.para{
+    font-family: SFProDisplay-Regular, Helvetica, Arial, sans-serif;
+    font-size: 28px;
+    font-weight: normal;
+    line-height: 32px;
+    width: 500px;
+    padding-top: 0px;
+    padding-left: 266px;
+}
+.fb-logo{
+    height: 114px;
+    padding-bottom: 0px;
+    padding-left: 233px;
+    padding-top: 165px;
+    
+}
+

@@ -83,13 +83,13 @@
 }
 .password{
     padding-left: 14px;
-    padding-top: 25px;
+    padding-top: 15px;
    
     
 }
 #Login{
     padding-left: 14px;
-    padding-top: 25px;
+    padding-top: 18px;
 
 }
 .sub-btn{
@@ -104,6 +104,7 @@
     font-size: 20px;
     cursor: pointer;
 
+
 }
 .forgotten{
     color:#fff ;
@@ -112,7 +113,7 @@
     text-decoration: none;
     color: #0866ff;
     font-weight: 500;
-    font-family: inherit;
+    font-family: sans-serif;
     padding-left: 132px;
 
 
@@ -120,6 +121,31 @@
 .forgotten:hover{
     text-decoration: underline;
 }
+.line{
+    color: lightgray;
+    padding: 15px 17px;
+    width: 359px;
+}
+.new{
+    height: 42px;
+    width: 180px;
+    text-align: center;
+    background: rgba(54,164,32,255);
+    font-size: 18px;
+    border-radius: 6px;
+    font-weight: bold;
+    border: none;
+    cursor: pointer;
+    color: #fff;
+}
+#new-btn{
+    padding-left: 119px;
+    padding-top: 0px;
+    font-weight: bold;
+}
+
+
+
 
 
    

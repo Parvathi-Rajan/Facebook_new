@@ -105,7 +105,21 @@
     cursor: pointer;
 
 }
+.forgotten{
+    color:#fff ;
+    font-size: 17px;
+    cursor: pointer;
+    text-decoration: none;
+    color: #0866ff;
+    font-weight: 500;
+    font-family: inherit;
+    padding-left: 132px;
 
+
+}
+.forgotten:hover{
+    text-decoration: underline;
+}
 
 
    
